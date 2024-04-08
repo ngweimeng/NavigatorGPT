@@ -75,10 +75,10 @@ def retrieve_answers(query):
 # Define the main function that streamlit will run
 def main():
     # Set the title of the web app
-    st.title("NavigatorGPT...powered by LLM and Pinecone")
+    st.title("COLREG-GPT!")
 
     # Create a text input box for user queries
-    text_input = st.text_input("Ask all your BR45-related queries...") 
+    text_input = st.text_input("Ask all your ROR queries...") 
     
     # Define what happens when the "Ask Query" button is clicked
     if st.button("Ask Query"):
