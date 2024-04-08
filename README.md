@@ -1,6 +1,6 @@
 # COLREG-GPT
 
-COLREG-GPT is an interactive application designed to assist mariners in refreshing their knowledge of the International Regulations for Preventing Collisions at Sea (COLREGs). Powered by state-of-the-art language models and vector search technology, COLREG-GPT answers queries related to maritime navigation rules to aid in the study and understanding of COLREGs.
+COLREG-GPT is an interactive application designed to assist mariners in refreshing their knowledge of the International Regulations for Preventing Collisions at Sea (COLREGs). Powered by gpt3.5 language models and vector search, COLREG-GPT answers queries related to maritime navigation rules to aid in the study and understanding of COLREGs.
 
 ## Features
 
@@ -26,7 +26,7 @@ COLREG-GPT is an interactive application designed to assist mariners in refreshi
 
 ## Usage
 
-To start using COLREG-GPT, simply run the Streamlit application and enter your queries regarding the rules of the road at sea. The application will process your question and return a helpful response.
+To start using COLREG-GPT, simply run the Streamlit application (https://colreg-gpt.streamlit.app/) and enter your queries regarding the rules of the road at sea. The application will process your question and return a helpful response.
 
 ## Installation
 
